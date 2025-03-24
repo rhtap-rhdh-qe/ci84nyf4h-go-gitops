@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ci84nyf4h-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ci84nyf4h-go
